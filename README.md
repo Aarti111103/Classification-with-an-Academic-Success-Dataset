@@ -50,3 +50,5 @@ Submission: Creating a submission file in the required format.
 ## Conclusion
 Participating in this competition was a great opportunity to enhance my skills in data science and machine learning. The logistic regression model provided valuable insights into predicting academic risk, and I look forward to applying these techniques to future projects.
 
+## Kaggle Competition Link
+For more details about the competition, please visit the page: https://www.kaggle.com/competitions/playground-series-s4e6/rules
